@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hyy there 👋
 
 <!--
 **drash-anchan/drash-anchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Im drash and im a student at MIT Manipal '29, i like to build cool projects and deploy them  
+My tech fields are AIML(basics), Coding(cpp,python,java), Webdev(html,css,js,react), Cybersecurity(null), Graphic Design(Canva), Gamedev(AR & VR)  
+I also love to distrohop in linux , btw i dont use arch!!  
+and i would also love to publish some research journals and work on them  
+
+THANK YOU!! 
