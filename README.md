@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Im drash and im a student at MIT Manipal '29, i like to build cool projects and deploy them  
-My tech fields are AIML(basics), Coding(cpp,python,java), Webdev(html,css,js,react), Cybersecurity(null), Graphic Design(Canva), Gamedev(AR & VR)  
+
+My tech fields are AIML(basics), Coding(cpp,python,java), Webdev(html,css,js,react),  
+Cybersecurity(null), Graphic Design(Canva), Gamedev(AR & VR)  
+
 I also love to distrohop in linux , btw i dont use arch!!  
+
 and i would also love to publish some research journals and work on them  
+
+feel free to check out my repo <3
 
 THANK YOU!! 
