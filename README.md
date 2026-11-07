@@ -1,6 +1,6 @@
 ## Hyy there!!
 # 💫 About Me:
-Im drash and im a student at MIT Manipal '29, i like to build cool projects and deploy them  <br><br>My tech fields are AIML(basics), Coding(cpp,python,java), Webdev(html,css,js,react),  <br>Cybersecurity(null), Graphic Design(Canva), Gamedev(AR & VR)  <br><br>I also love to distrohop in linux , btw i dont use arch!!  <br><br>and i would also love to publish some research journals and work on them  <br><br>feel free to check out my repo <3<br><br>THANK YOU!! 
+Im drash and im a student at MIT Manipal '29, i like to build cool projects and deploy them  <br><br>My tech fields are AIML(basics), Coding(cpp,python,java), Webdev(react + fastapi),  <br>Cybersecurity(null), Graphic Design(Canva), Gamedev(AR & VR)  <br><br>I also love to distrohop in linux , btw i dont use arch!!  <br><br>and i would also love to publish some research journals and work on them  <br><br>feel free to check out my repo <3<br><br>THANK YOU!! 
 
 
 ## 🌐 Socials:
